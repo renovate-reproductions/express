@@ -1,3 +1,5 @@
 {
-  "vulnerabilityFixStrategy": "highest"
+  "vulnerabilityAlerts": {
+    "vulnerabilityFixStrategy": "highest"
+  }
 }
